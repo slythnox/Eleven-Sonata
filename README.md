@@ -1,4 +1,4 @@
-# Eleven - Premium Minimalistic Music Bot for Discord 🎵🎧
+# Eleven Sonata — the musical expression of the Eleven system
 
 Welcome to **Eleven**, the premium, minimalistic yet feature-packed music bot for Discord. With Eleven, you get a seamless music experience tailored for your server. Whether you’re hosting a party, creating a chill atmosphere, or managing music for your community, Eleven is the ultimate music bot for all your needs.
 
