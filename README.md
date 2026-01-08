@@ -71,5 +71,3 @@ Eleven isn’t just another music bot — it’s a **premium experience**. It of
 - **Customizable Filters**: Adjust audio to suit any occasion.
 
 ---
-
-
